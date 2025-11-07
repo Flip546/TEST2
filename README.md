@@ -2,8 +2,8 @@
 
 1. **Filip Brzazgacz**
 - Github name : Flip546
-- Tasks : 
+- Tasks : 1,css files
 
 3. **Mikołaj Chyliński**
 - Github name : mikolajjpg
-- Tasks : 
+- Tasks : 3 ,4 ,5
